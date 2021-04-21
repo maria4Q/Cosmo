@@ -1,0 +1,49 @@
+*{
+    padding: 0;
+    margin: 0;
+	font-family: 'Roboto', sans-serif;
+}
+header{
+    width: 100%;
+    height: auto;
+    padding-top: 10px 45px 50px 50px 
+}
+.img_header{
+    height: 15px;
+	padding: 1px 5px 1px 5px;
+    margin: 5px 5px 0px 10px;
+    border-radius: 5px; 
+	border: #CCD1D1 solid 0.2px;
+}
+.title_2{
+    height: 100%;
+    font-size: 50px;
+    padding: 70px 400px 30px 400px;
+    text-align: center;
+    
+}
+.contenedor_img{
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    
+}
+.ccc{
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;    
+}
+.planetas_img{
+    margin: 5px 5px 25px 10px;
+    height: 150px;
+    padding: 2px 2px 2px 2px;
+    border: 1px solid gray;
+    border-radius: 10px;
+}
+.planetas_img:hover{
+    background-color: #E5E8E8;
+}

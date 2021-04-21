@@ -1,0 +1,82 @@
+*{
+    margin: 0;
+    padding: 0;
+	font-family: 'Roboto', sans-serif;  
+}
+.img_header{
+    height: 15px;
+	padding: 1px 5px 1px 5px;
+    margin: 5px 5px 0px 10px;
+    border-radius: 5px;
+    border: #CCD1D1 solid 0.2px;
+}
+nav{
+    margin: 90px 200px 100px 200px;
+    text-align: center;
+    font-family:sans-serif;
+    font-size: 20px;
+    
+    display: block;
+    flex-direction: row;
+    justify-content: center;
+   
+}
+.fondo{
+    background-color: white;
+}
+h2{
+	font-size: 50px;
+}
+.botones{
+    display: flex;
+    justify-content:center;
+    flex-direction: row;
+    margin: auto;
+}
+.boton_1{
+    display: block;
+    background-color: #FC4A12;
+    padding: 5px 15px 5px 15px;
+    margin: 80px 10px 15px 10px;
+    text-align: center;
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    border-radius: 2px;
+}
+.boton_2{
+    display: block;
+    background-color: #E06110;
+    padding: 5px 15px 5px 15px;
+    margin: 80px 10px 15px 10px;
+    text-align: center;
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    border-radius: 2px;
+}
+.boton_3{
+    display: block;
+    background-color: #F8931F;
+    padding: 5px 30px 5px 30px;
+    margin: 80px 10px 15px 10px;
+    text-align: center;
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    border-radius: 2px;
+}
+.boton_1:hover{
+    background-color: #16A085;
+}
+.boton_2:hover{
+    background-color: #16A085;
+}
+.boton_3:hover{
+    background-color: #16A085;
+}
+
+
+
+
+
